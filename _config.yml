@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 
 url: "http://lee-ej.github.io"
+base-url: ""
 
 title: sample
 description: desc
