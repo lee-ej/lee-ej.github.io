@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+url: "http://lee-ej.github.io"
+
+title: sample
+description: desc
+
+timezone: "Asia/Seoul"
